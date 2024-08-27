@@ -1,0 +1,24 @@
+#saudação{
+    color:red
+}
+
+#apresentação{
+    color:blue;
+}
+
+.exemplo{
+    color:green;
+}
+
+div p{
+    font-size: 10pt;
+}
+
+a{
+    color: red;
+}
+
+a:hover{
+    font-size: 20pt;
+    color: yellow;
+}
